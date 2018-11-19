@@ -17,13 +17,15 @@ These scripts were used in RAD-seq studies of Plutella xylostella and the crypti
 5. [crosses.R](crosses.R)
     + Makes LaTeX tables summarising experimental inter-species crosses between P. xylostella and P. australiana
 6. [genotypes.R](genotypes.R)
-    + Makes maps, LaTex tables etc of genotype data for . australiana and P. xylostella
+    + Makes maps, LaTex tables etc of genotype data for P. australiana and P. xylostella
 7. [haplotypes.R](haplotypes.R)
     + Makes haplotype networks for Plutella species based on a 613 bp COI fragment
 8. [pairwiseFst.R](pairwiseFst.R)
     + Makes heat maps of pairwise genetic and geographic distance
 9. [pca.R](pca.R)
-  + PCA of P. xylostella populations 
+    + PCA of P. xylostella populations 
+10. [populationStatistics.R](populationStatistics.R)
+    + Makes LaTeX tables of population genetic diversity statistics for Plutella species 
 
 
 These scripts were used in field studies of the colonisation of canola crops by P. xylostella (Chapter 5)
