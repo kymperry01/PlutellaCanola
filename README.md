@@ -28,6 +28,9 @@ These scripts were used in RAD-seq studies of Plutella xylostella and the crypti
     + Makes LaTeX tables of population genetic diversity statistics for Plutella species 
 11. [powsim.R](powsim.R)
     + POWSIM analysis for 1032 SNPs
+12. [writeSampleMetaDataForSRASubmission.R](writeSampleMetaDataFroSRASubmission.R)
+    + Compiles the meta for all RAD-seq samples
+    + Explains the naming history for each sample
    
 
 
@@ -46,7 +49,7 @@ These scripts were used in field studies of the colonisation of canola crops by 
 5. [developmentModels.R](developmentModels.R)
     + Fits non-linear regressions to temperature-dependent development data for P. xylostella
 6. [lightTraps.R](lightTraps.R)
-  + Plots light trap data on calender and phenological timescales
+   + Plots light trap data on calender and phenological timescales
     
 
 
