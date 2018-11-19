@@ -13,6 +13,9 @@ These scripts were used in RAD-seq studies of Plutella xylostella and the crypti
     + Outputs plots of dose-response curves
 4. [checkGenotypes.R](checkGenotypes.R)
     + Performs PCA on technical duplicates to check the robustness of genotype calls (i.e. whether sample pairs cluster together) 
+5. [collectionsPx.R](collectionsPx.R)
+    + Makes LaTeX tables and plots geographic maps of P. xylostella collections
+    
 
 These scripts were used in field studies of the colonisation of canola crops by P. xylostella (Chapter 5)
 1. [autumnSurveys.R](autumnSurveys.R)
@@ -20,9 +23,12 @@ These scripts were used in field studies of the colonisation of canola crops by 
     + Outputs LaTeX table code
 2. [climate.R](climate.R)
     + Extracts climate data from raster grid cells corresponding to field site for 2014 to 2016
-    + Plots cumulative rainfall and CLIMEX Weekly Growth Index
+    + Line plots of cumulative rainfall and CLIMEX Weekly Growth Index
 3. [climex.R](climex.R)
     + Plots maps and spatio-temporal movies of CLIMEX "Compare Locations Years" models
+4. [colonisation.R](colonisation.R)
+    + Models temperature-dependent P. xylostella phenology
+    + Plots spatio-temporal maps of colonisation of canola and CLIMEX Weekly Growth Index
     
 
 Supplementary movies (Chapter 5)
