@@ -15,6 +15,8 @@ These scripts were used in RAD-seq studies of Plutella xylostella and the crypti
     + Performs PCA on technical duplicates to check the robustness of genotype calls (i.e. whether sample pairs cluster together) 
 5. [collectionsPx.R](collectionsPx.R)
     + Makes LaTeX tables and plots geographic maps of P. xylostella collections
+6. [crosses.R](crosses.R)
+    + Makes LaTeX tables summarising experimental inter-species crosses between P. xylostella and P. australiana
     
 
 These scripts were used in field studies of the colonisation of canola crops by P. xylostella (Chapter 5)
