@@ -18,6 +18,12 @@ These scripts were used in field studies of the colonisation of canola crops by 
 1. [autumnSurveys.R](autumnSurveys.R)
     + Plots geographic maps of autumn survey data
     + Outputs LaTeX table code
+2. [climate.R](climate.R)
+    + Extracts climate data from raster grid cells corresponding to field site for 2014 to 2016
+    + Plots cumulative rainfall and CLIMEX Weekly Growth Index
+3. [climex.R](climex.R)
+    + Plots maps and spatio-temporal movies of CLIMEX "Compare Locations Years" models
+    
 
 Supplementary movies (Chapter 5)
 1. [Plutella Climex and Canola Colonisation](https://doi.org/10.25909/5bebc11b1f1d4)
