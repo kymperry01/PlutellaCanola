@@ -31,6 +31,8 @@ These scripts were used in field studies of the colonisation of canola crops by 
 4. [colonisation.R](colonisation.R)
     + Models temperature-dependent P. xylostella phenology
     + Plots spatio-temporal maps of colonisation of canola and CLIMEX Weekly Growth Index
+5. [developmentModels.R](developmentModels.R)
+    + Fits non-linear regressions to temperature-dependent development data for P. xylostella
     
 
 Supplementary movies (Chapter 5)
