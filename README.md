@@ -11,6 +11,8 @@ These scripts were used in RAD-seq studies of Plutella xylostella and the crypti
 3. [bioassays.R](bioassays.R)
     + Performs log-logistic regression of insecticide bioassays
     + Outputs plots of dose-response curves
+4. [checkGenotypes.R](checkGenotypes.R)
+    + Performs PCA on technical duplicates to check the robustness of genotype calls (i.e. whether sample pairs cluster together) 
 
 These scripts were used in field studies of the colonisation of canola crops by P. xylostella (Chapter 5)
 1. [autumnSurveys.R](autumnSurveys.R)
