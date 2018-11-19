@@ -26,6 +26,9 @@ These scripts were used in RAD-seq studies of Plutella xylostella and the crypti
     + PCA of P. xylostella populations 
 10. [populationStatistics.R](populationStatistics.R)
     + Makes LaTeX tables of population genetic diversity statistics for Plutella species 
+11. [powsim.R](powsim.R)
+    + POWSIM analysis for 1032 SNPs
+   
 
 
 These scripts were used in field studies of the colonisation of canola crops by P. xylostella (Chapter 5)
