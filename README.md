@@ -6,7 +6,8 @@ These scripts were run in the following order:
 
 1. [genotypes.R](genotypes.R)
     + makes maps, LaTex tables etc
-    
+2. [amova.R](amova.R)
+    + AMOVA of P. xylostella using 1032 SNPs
     
 Supplementary movies
 
